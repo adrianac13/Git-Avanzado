@@ -2,7 +2,7 @@
 
 primer cambio
 
-segundo cambio
+segundo cabio
 
 tercer cambio visual
 tercer cambio bloc
